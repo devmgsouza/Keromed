@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Keromed</string>
+    <string name="server">http://192.168.43.239:8080/WebservicePjA/rest/resources/</string>
+    <array name="tab_name">
+        <item>Home</item>
+        <item>Doações</item>
+        <item>Meus Itens</item>
+        <item>Settings</item>
+    </array>
+
+    <!-- FACEBOOK -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">1968926400094290</string>
+    <string name="fb_login_protocol_scheme">fb1968926400094290</string>
+
+
+    <!-- FRASES -->
+    <string name="mensagem_inicial">Compartilhe solidariedade!</string>
+    <string name="orientacao">Informe este código ao doador no momento em que receber
+    o medicamento, assim ele poderá finalizar a doação</string>
+    <string name="orientacao_finalizar_doacao">Insira o código informado pelo soliciante, assim poderá
+    finalizar a doação</string>
+    <string name="permissao_necessaria">Permissão necessária para o funcionamento do app</string>
+
+    <!-- TITULO DE MENSAGENS -->
+    <string name="erro">Ops</string>
+    <string name="login">Login</string>
+    <string name="carregando">Carregando...</string>
+    <string name="selecione_quantidade">Insira a quantidade desejada:</string>
+    <string name="deseja_cancelar">Deseja cancelar esta solicitação?</string>
+    <string name="deseja_excluir">Deseja excluir este medicamento?</string>
+    <string name="importante">Importante</string>
+
+
+    <!-- MENSAGENS POPUP -->
+    <string name="servidor_indisponivel">Nosso servidor está indisponível no momento, por favor,
+        tente novamente mais tarde</string>
+    <string name="atualizando">Atualizando...</string>
+    <string name="finalizando">Finalizando...</string>
+    <string name="pesquisando">Pesquisando...</string>
+    <string name="erro_camera">Dispositivo não possúi camera</string>
+
+
+    <!-- BUTTONS -->
+    <string name="ok">OK</string>
+    <string name="solicitar">Solicitar</string>
+    <string name="alterar">Alterar</string>
+    <string name="alterar_status">Alterar Status</string>
+    <string name="continuar_com_fb">Continuar com Facebook</string>
+    <string name="cancelar">Cancelar doação</string>
+    <string name="cancel">Cancelar</string>
+    <string name="consultar">Consultar</string>
+    <string name="excluir">Excluir</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="continuar">Continuar</string>
+    <string name="salvar">Salvar</string>
+    <string name="barcode">Codigo de barras</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrarse">Registrar-se</string>
+    <string name="editar">Editar</string>
+    <string name="option">Opções</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="cadastrar">Cadastrar</string>
+
+
+    <!-- TEXTS -->
+    <string name="distancia">Distância</string>
+    <string name="status">Status</string>
+    <string name="search">Pesquisar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="aplicar_filtro">Aplicar filtro</string>
+    <string name="alterar_quantidade">Alterar Quantidade</string>
+    <string name="voltar">Voltar</string>
+    <string name="solicitado_em">Solicitado em:</string>
+    <string name="seg">Seg</string>
+    <string name="ter">Ter</string>
+    <string name="qua">Qua</string>
+    <string name="qui">Qui</string>
+    <string name="sex">Sex</string>
+    <string name="sab">Sab</string>
+    <string name="dom">Dom</string>
+    <string name="doar">Doar</string>
+    <string name="usuario">Usuário</string>
+    <string name="medicamento">Medicamento</string>
+    <string name="senha">Senha</string>
+    <string name="campo_obrigatorio">Campo obrigatório</string>
+    <string name="razaosocial">Razão social</string>
+    <string name="endereco">Endereço</string>
+    <string name="cidade">Cidade</string>
+    <string name="numero">Número</string>
+    <string name="cep">CEP</string>
+    <string name="email">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="obs">Observação</string>
+    <string name="pesquisar_cep">Pesquisar cep</string>
+    <string name="orientacoes_doar">Descreva as orientaçõe necesárias para a retirada do medicamento, ex: trazer caixa com gelo</string>
+
+    <string name="nome_comercial">Nome comercial</string>
+    <string name="principio_ativo">Principio ativo</string>
+    <string name="laboratorio">Laboratório</string>
+    <string name="apresentacao">Apresentação</string>
+    <string name="tarja">Tarja</string>
+    <string name="codbarras">Código de barras</string>
+    <string name="classe_terapeutica">Classe terapeutica</string>
+
+</resources>
